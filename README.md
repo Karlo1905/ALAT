@@ -3,7 +3,7 @@
 <h3 align="center">Advanced Linux Admin Toolkit</h3>
 
 <p align="center">
-  A lightweight toolkit for Linux system administration and automation.
+  A lightweight toolkit for Linux system administration.
 </p>
 
 <p align="center">
