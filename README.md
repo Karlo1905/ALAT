@@ -1,16 +1,42 @@
-ALAT
+# 🚀 ALAT
 
-ALAT — Advanced Linux Admin Toolkit
+<h3 align="center">Advanced Linux Admin Toolkit</h3>
 
-A collection of tools and scripts designed to simplify Linux system administration and automate common administrative tasks.
+<p align="center">
+  A lightweight toolkit for Linux system administration and automation.
+</p>
 
-Overview
-ALAT (Advanced Linux Admin Toolkit) is a project focused on making Linux administration more convenient through practical command-line tools and automation.
-The goal is to provide a centralized toolkit for system administrators, Linux enthusiasts, and users who want to streamline repetitive tasks.
+<p align="center">
+  <a href="https://github.com/Karlo1905/ALAT">
+    <img src="https://img.shields.io/badge/Platform-Linux-1793D1?style=for-the-badge&logo=linux&logoColor=white" alt="Platform: Linux">
+  </a>
+  <a href="https://github.com/Karlo1905/ALAT/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Karlo1905/ALAT?style=for-the-badge" alt="License">
+  </a>
+  <a href="https://github.com/Karlo1905/ALAT">
+    <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" alt="Project status">
+  </a>
+</p>
 
-Goals:
-Simplify common Linux administration tasks
-Automate repetitive command-line operations
-Improve workflow efficiency
-Provide practical tools for managing Linux systems
-Keep the toolkit lightweight and easy to use
+---
+
+## 🐧 About
+**ALAT (Advanced Linux Admin Toolkit)** is a project focused on simplifying Linux system administration through useful tools, scripts, and automation.
+Built for Linux users, system administrators, and enthusiasts who want to make everyday tasks easier and more efficient.
+
+## ✨ Features
+- ⚙️ **Administration** — Tools for common Linux administration tasks.
+- 🤖 **Automation** — Reduce repetitive command-line work.
+- 💻 **Linux-focused** — Designed for Linux environments.
+- 🧩 **Expandable** — A foundation for adding new tools and features.
+> Features depend on the tools currently implemented in the repository.
+
+## 🔒 Security
+Review scripts before executing them, especially those requiring `sudo` or root privileges.
+Always test system administration tools in a safe environment before using them on production systems.
+
+## 📄 License
+Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
+
+  ⭐ If you find this project useful, consider giving it a star!
+</p>
