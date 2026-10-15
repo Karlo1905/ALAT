@@ -1,5 +1,5 @@
-# 🚀 ALAT
 
+<h2 align="center">ALAT</h2>
 <h3 align="center">Advanced Linux Admin Toolkit</h3>
 
 <p align="center">
