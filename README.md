@@ -1,3 +1,5 @@
+ALAT
+
 ALAT — Advanced Linux Admin Toolkit
 
 A collection of tools and scripts designed to simplify Linux system administration and automate common administrative tasks.
