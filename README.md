@@ -7,14 +7,25 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Karlo1905/ALAT/releases/latest">
+    <img src="https://img.shields.io/github/v/release/Karlo1905/ALAT?style=for-the-badge&label=Latest%20Release&logo=github"
+         alt="Latest Release">
+  </a>
+  <a href="https://github.com/Karlo1905/ALAT/releases/latest">
+    <img src="https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github&logoColor=white"
+         alt="Download Latest Release">
+  </a>
   <a href="https://github.com/Karlo1905/ALAT">
-    <img src="https://img.shields.io/badge/Platform-Linux-1793D1?style=for-the-badge&logo=linux&logoColor=white" alt="Platform: Linux">
+    <img src="https://img.shields.io/badge/Platform-Linux-1793D1?style=for-the-badge&logo=linux&logoColor=white"
+         alt="Platform: Linux">
   </a>
   <a href="https://github.com/Karlo1905/ALAT/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Karlo1905/ALAT?style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/github/license/Karlo1905/ALAT?style=for-the-badge"
+         alt="License">
   </a>
   <a href="https://github.com/Karlo1905/ALAT">
-    <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" alt="Project status">
+    <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge"
+         alt="Project status">
   </a>
 </p>
 
